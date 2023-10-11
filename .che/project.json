@@ -1,1 +1,1 @@
-{"type":"mta","builders":{"default":"mtabuilder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hdbInactiveFiles\":{\"inactiveFileList\":[\"/NTT_REPOSITORY/HDB/src/TABLES.hdbcds\"]}}"]},"mixinTypes":[]}
+{"type":"mta","builders":{"default":"mtabuilder","configs":{}},"runners":{"configs":{}},"attributes":{"sap.watt.common.setting":["{\"hdbInactiveFiles\":{\"inactiveFileList\":[\"/NTT_REPOSITORY/HDB/src/TABLES.hdbcds\",\"/NTT_REPOSITORY/HDB/src/emp.hdbtable\"]}}"]},"mixinTypes":[]}
